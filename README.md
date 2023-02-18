@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron 👀
-- 🌱 I’m currently learned Python.
+- 💻 I’m recently learned Python.
 
 <!---
 realCameronJones/realCameronJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
